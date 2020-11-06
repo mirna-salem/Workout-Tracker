@@ -10,3 +10,4 @@ Tracking your workouts allows you to plan, organize, and actualize your fitness 
 
 ### What it looks like so far...
 
+![](Images/createAccountPage.png)
